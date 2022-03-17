@@ -3,4 +3,18 @@
     <string name="login">Login</string>
     <string name="register">Register</string>
     <string name="test">Test</string>
+    <string name="homepagelogo">HomePageLogo</string>
+    <string name="email">Email</string>
+    <string name="loginpagelogo">LoginPageLogo</string>
+    <string name="password">Password</string>
+    <string name="loginwithgoogle">LoginWithGoogle</string>
+    <string name="loginwithgoogle">LoginWithGoogle</string>
+    <string name="logintext">LoginText</string>
+    <string name="log_in">Log In</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="reg_name">Name</string>
+    <string name="hometext">HomePageText</string>
+    <string name="registertext">RegisterText</string>
+    <string name="AHelpingHand">A Helping Hand</string>
 </resources>
